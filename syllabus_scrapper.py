@@ -116,3 +116,4 @@ if __name__ == '__main__':
     print(sys.argv)
     if(len(sys.argv)>1):
         print(get_syllabus(sys.argv[1]))
+      
